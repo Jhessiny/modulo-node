@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Jhessiny/modulo-node#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
   }
 }
